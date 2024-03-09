@@ -1,6 +1,6 @@
 {
   "name": "hai-confirmation-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Một thành phần con của Dialog, được tạo ra để hiển thị thông báo xác nhận, cho phép người dùng xác nhận hoặc hủy bỏ hành động.",
   "main": "index.js",
   "scripts": {
